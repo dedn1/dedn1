@@ -12,9 +12,4 @@ less talk, more action
  streak day 2
 
 
-<br>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dedn1&theme=darkhub&no-frame=true&row=1" />
-</p>
-
 
